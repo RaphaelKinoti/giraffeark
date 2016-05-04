@@ -1,0 +1,386 @@
+/************************************************************************************/
+html
+{
+  
+   height: 100%;
+}
+body 
+{ 
+   font-family: 'Open Sans', arial, sans-serif;
+   font-weight: 300;
+   color: #444444;
+   height: 100%;
+}
+a, a:hover
+{
+   text-decoration: none!important;
+   /*color: #fff;*/
+}
+
+.form-control
+{
+   border-radius: 2px;
+   height:40px;
+}
+.wrapper
+{
+   min-height: 100%;
+   height: auto !important;
+   height: 100%;
+   margin: 0 auto auto;
+}
+
+.btn
+{
+   border-radius:2px;
+   height: 40px;
+   font-size:15px;
+}
+
+.shadow
+{   
+   -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2) !important;
+   -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2) !important;
+   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2) !important;
+}
+.navbar-toggle
+{
+   background: #fff;
+}
+.icon-bar
+{
+   background: #CC9900 !important;
+}
+.icon-bar:hover
+{
+   background: #CC9900 !important;
+}
+.btn-fill
+{
+   background: #C74525;
+   border: 2px solid #C74525;
+   color: #fff;
+   font-weight: 600;
+}
+
+.btn-dark
+{
+   background: #777;
+   border: 2px solid #777;
+   color: #fff;
+   font-weight: 600;
+}
+.btn-fill:hover,.btn-fill:focus, .btn-clear:active
+{
+   background: #2A2828;
+   border: 2px solid #C74525;
+   color: #fff;
+}
+.btn-clear:hover,.btn-clear:focus, .btn-clear:active
+{
+   background: #CC9900;
+   border: 2px solid #CC9900;
+   color: #fff;
+}
+.btn-clear
+{
+   background: #fff;
+   border: 2px solid #CC9900;
+   color: #777;
+   font-weight: 600;
+}
+
+#landing-promo
+{
+   min-height: 700px;
+}
+
+.vegas-timer-progress
+{
+   background: #CC9900;
+}
+.intro
+{
+  padding-top:20px;
+}
+.splash-logo img
+{
+   height:200px;
+   width:250px;
+}
+
+.welcome-buttons
+{
+   padding-top:50px;
+}
+
+.splash-logo h1
+{
+   color: #fff;
+   text-transform: uppercase;
+   font-weight:700;
+
+}
+.header-logo h1
+{
+   position: relative;
+   top: -40px !important;
+}
+
+.flyer-header
+{
+   height: 400px;
+}
+
+.flyer-body
+{
+   background: #F8EC66;
+   min-height: 400px;
+
+}
+.flyer-footer
+{
+   background: #811105;
+   min-height:300px;
+   padding-left:10px;
+   padding-right:10px;
+}
+.offer-badge
+{
+   height: 300px;
+   width:300px;
+   border-radius:300px;
+   background: #C74525;
+   position: relative;
+   top:-120px;
+   left:20px;
+   border:10px solid #fff;
+   z-index:10;
+}
+.discount-price
+{
+   min-height: 100px;
+   color: #F8EC66;
+   padding: 5px 10px 5px 10px;
+   text-align: center;
+}
+.gallery
+{
+   min-height: 300px;
+   background: #F8EC66;
+   padding-top: 25px;
+   padding-left: 15px;
+   padding-right: 15px;
+   padding-bottom:20px;
+}
+.contacts
+{
+   min-height: 80px;
+   text-align: center;
+   color: #fff;
+   padding: 10px 0px 10px 0px;
+}
+.gallery img
+{
+   width: 100%;
+   height: 250px;
+   margin-bottom: 20px;
+   border-radius: 2px;
+   padding:4px;
+}
+
+.owl-theme .owl-controls .owl-page span
+{
+   background: #fff!important;   
+}
+.discount-price h4
+{
+   font-size: 20px;
+   font-style: italic;
+}
+.phones
+{
+   font-weight: 600;
+   font-size: 18px;
+}
+.box-address
+{
+   font-weight: 400;
+   font-size: 18px;
+}
+
+.fa-color
+{
+   color: #F8EC66!important;
+}
+
+.facolor
+{
+   color: #811105;
+}
+
+.offer-badge p
+{
+   position: relative;
+   top: 50px;
+   color: #fff;
+   font-weight: 400;
+   font-size: 19px;
+   font-style: italic;
+
+}
+.amazing-benefits
+{
+   min-height: 400px;
+   margin-top: -100px;
+}
+
+.amazing-benefits h4
+{
+   text-transform: uppercase;
+   color: #000;
+   text-align: center;
+   font-weight: 700;
+   font-size: 20px;
+
+}
+.amazing-p
+{
+   color: #811105;
+   font-weight: 700;
+   font-size: 18px;
+   font-style: italic;
+}
+.amazing-list li
+{
+   padding-bottom: 15px;
+   font-weight: 400;
+   font-size: 18px;
+}
+.buy-shares
+{
+   background:#fff!important;
+   min-height: 540px;
+   margin-top:30px;
+   margin-bottom:20px;
+   padding: 0px 10px 10px 10px;
+   border-radius:3px;
+}
+.buy-shares h4
+{
+   color: #811105;
+   font-weight: 600;
+}
+.buy-shares h5
+{  
+   font-weight:600;
+}
+.fractional-p
+{
+   color: #777;
+   font-weight: 600;
+   font-size: 15px;
+   font-style: italic;
+}
+.fractional,.executives,.premiere
+{
+   padding-left:20px;
+}
+.fractional li,.executives li, .premiere li
+{
+   font-weight: 400;
+   padding-bottom: 5px;
+}
+.iframe-content
+{
+   background: #F8EC66;
+   margin-bottom: 25px;
+   border-radius: 3px;
+   padding: 5px;
+}
+.flex-video 
+{
+   position: relative;
+   padding-top: 25px;
+   padding-bottom: 67.5%;
+   height: 0;
+   margin-bottom: 16px;
+   overflow: hidden;
+}
+ 
+.flex-video.widescreen { padding-bottom: 48.25%; }
+.flex-video.vimeo { padding-top: 0; }
+ 
+.flex-video iframe,
+.flex-video object,
+.flex-video embed 
+{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+}
+@media only screen and (max-device-width: 800px), only screen and (device-width: 1024px) and (device-height: 600px), only screen and (width: 1280px) and (orientation: landscape), only screen and (device-width: 800px), only screen and (max-width: 767px) {
+.flex-video { padding-top: 0; }
+}
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px) {
+
+   #landing-promo
+   {
+      min-height: 600px!important;
+   }
+  
+   .intro
+   {
+      padding-top: 10px!important;
+   }
+   .offer-badge
+   {
+      height: 200px;
+      width:200px;
+      border-radius:200px;
+      background: #C74525;
+      position: relative;
+      top:-90px;
+      left:5px;
+      text-align:center!important;
+      border:10px solid #fff;
+      z-index:10;
+   }
+
+   .offer-badge p
+   {
+      position: relative;
+      top: 20px;
+      color: #fff;
+      font-weight: 400;
+      font-size: 14px;
+      font-style: italic;
+
+   }
+   .amazing-benefits
+   {
+      min-height: 400px;
+      margin-top: -80px;
+   }
+
+}
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  
+}
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  
+}
+@media (min-width: 1400px) {
+   #landing-promo
+   {
+      min-height: 800px!important;
+   }
+}
+/* Large devices (large desktops, 1200px and up) */
+
+

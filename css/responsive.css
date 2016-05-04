@@ -1,0 +1,42 @@
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px) {
+	.brand-logo
+	{
+		height: 50px!important;
+		position: relative;
+		top: -18px!important;
+	}
+	#landing-promo
+	{
+	   min-height: 450px!important;
+	}
+	.clock-inner-wrapper
+	{
+	   padding-left: 75px!important;
+	   padding-top: 50px;
+	}	
+	.intro
+	{
+	   padding-top: 10px!important;
+	}
+	.network-img img
+	{
+	   height: 150px !important;
+	   width: 150px !important;
+	   border-radius:200px !important;
+	}
+	.account-form-header
+	{
+		margin-top: 0px !important;
+	}
+	  
+}
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  
+}
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  
+}
+/* Large devices (large desktops, 1200px and up) */
